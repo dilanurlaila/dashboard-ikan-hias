@@ -56,6 +56,12 @@ Jika kamu ingin menjalankannya online:
 2. Buka [https://streamlit.io/cloud](https://streamlit.io/cloud)
 3. Klik “New app”, lalu arahkan ke `dashboard.py` dalam repo kamu
 
+## 🌐 Akses Online
+
+Kamu dapat mengakses dashboard secara langsung melalui link berikut:
+
+👉 [Buka Dashboard](https://dashboard-ikan-hias-dilanurlaila.streamlit.app/)
+
 ## 👤 Author
 
 Dibuat oleh \[Dila Nurlaila] sebagai bagian dari pembelajaran mata kuliah **Analisis Bisnis dan Big Data**.

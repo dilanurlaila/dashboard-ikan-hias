@@ -59,7 +59,7 @@ top_products = (
 fig1, ax1 = plt.subplots()
 top_products.plot(kind='barh', ax=ax1, color='salmon')
 ax1.invert_yaxis()
-ax1.set_title("Top 10 Produk Berdasarkan Kuantitas Terjual")
+ax1.set_title("Top 10 Produk Paling Laris")
 st.pyplot(fig1)
 
 # ----------------------------
