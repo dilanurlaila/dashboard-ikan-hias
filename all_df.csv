@@ -1,0 +1,474 @@
+transaction_id,date,product_id,quantity,customer_name,location,payment_method,total_price,price,product_name,category,stock,supplier,rating,month
+T0001,2025-06-13,P0305,7.0,Hana,Medan,Transfer,545013.0,77859.0,Betta Splendens,Barb,106.0,AquaWorld,4.8,2025-06
+T0002,2025-01-29,P0076,6.0,Budi,Bekasi,Transfer,220314.0,36719.0,Angelfish,Shark,116.0,FishZone,3.5,2025-01
+T0003,2025-01-07,P0311,6.0,Iwan,Bogor,Transfer,184728.0,30788.0,Betta Splendens,Fighter,43.0,FishZone,3.2,2025-01
+T0004,2025-03-12,P0469,2.0,Eka,Bekasi,Transfer,59320.0,29660.0,Betta Splendens,Cichlid,175.0,FishZone,3.3,2025-03
+T0005,2025-03-04,P0312,6.0,Iwan,Bandung,Cash,309258.0,51543.0,Guppy,Barb,55.0,FishHaven,3.5,2025-03
+T0006,2025-02-27,P0196,4.0,Joko,Bekasi,Credit,166836.0,41709.0,Knifefish,Shark,58.0,AquaWorld,3.8,2025-02
+T0007,2025-02-05,P0351,9.0,Eka,Bekasi,Cash,294813.0,32757.0,Shark,Livebearer,127.0,FishHaven,4.3,2025-02
+T0008,2025-01-27,P0044,1.0,Gilang,Surabaya,Cash,11666.0,11666.0,Barb,Cichlid,173.0,ExoticFishID,4.7,2025-01
+T0010,2025-05-20,P0186,5.0,Dedi,Surabaya,Cash,162010.0,32402.0,Guppy,Livebearer,50.0,FishHaven,4.8,2025-05
+T0011,2025-01-23,P0343,1.0,Budi,Surabaya,Cash,7494.0,7494.0,Koi,Shark,183.0,ExoticFishID,3.2,2025-01
+T0012,2025-06-01,P0246,4.0,Iwan,Jakarta,Credit,98080.0,24520.0,Knifefish,Livebearer,25.0,AquaWorld,4.7,2025-06
+T0013,2025-04-19,P0437,1.0,Budi,Bekasi,Cash,71344.0,71344.0,Knifefish,Barb,92.0,AquaWorld,4.2,2025-04
+T0014,2025-01-09,P0084,6.0,Citra,Bekasi,E-Wallet,128694.0,21449.0,Neon Tetra,Cichlid,17.0,ExoticFishID,3.1,2025-01
+T0015,2025-01-08,P0207,2.0,Joko,Bekasi,Transfer,63538.0,31769.0,Koi,Livebearer,48.0,AquaWorld,4.4,2025-01
+T0016,2025-01-24,P0151,5.0,Budi,Depok,E-Wallet,103855.0,20771.0,Betta Splendens,Tetra,61.0,FishHaven,5.0,2025-01
+T0017,2025-02-25,P0156,7.0,Citra,Surabaya,Credit,494494.0,70642.0,Discus,Discus,6.0,Unknown,4.8,2025-02
+T0018,2025-03-01,P0016,2.0,Fatma,Medan,Credit,13594.0,6797.0,Discus,Cichlid,91.0,FishZone,4.4,2025-03
+T0019,2025-05-10,P0165,6.0,Citra,Bandung,Credit,160512.0,26752.0,Neon Tetra,Shark,126.0,ExoticFishID,3.4,2025-05
+T0021,2025-01-07,P0463,5.0,Hana,Medan,Cash,252585.0,50517.0,Angelfish,Discus,132.0,FishHaven,3.7,2025-01
+T0022,2025-05-24,P0145,5.0,Fatma,Bogor,Transfer,87980.0,17596.0,Neon Tetra,Tetra,40.0,FishZone,3.4,2025-05
+T0023,2025-02-20,P0498,3.0,Gilang,Jakarta,Credit,51864.0,17288.0,Shark,Oddball,26.0,AquaWorld,4.8,2025-02
+T0024,2025-06-16,P0037,10.0,Andi,Jakarta,E-Wallet,437380.0,43738.0,Barb,Barb,23.0,FishZone,4.1,2025-06
+T0025,2025-05-20,P0333,10.0,Citra,Bogor,Credit,50500.0,5050.0,Angelfish,Discus,178.0,AquaWorld,4.5,2025-05
+T0026,2025-04-18,P0403,2.0,Citra,Bekasi,Transfer,106212.0,53106.0,Shark,Discus,168.0,FishHaven,3.5,2025-04
+T0027,2025-02-26,P0414,7.0,Budi,Medan,E-Wallet,340536.0,48648.0,Neon Tetra,Oddball,131.0,FishHaven,3.1,2025-02
+T0028,2025-04-25,P0045,1.0,Gilang,Bekasi,E-Wallet,60761.0,60761.0,Angelfish,Barb,144.0,NishikigoiFarm,3.5,2025-04
+T0029,2025-05-31,P0402,6.0,Iwan,Depok,E-Wallet,370572.0,61762.0,Neon Tetra,Tetra,160.0,NishikigoiFarm,3.1,2025-05
+T0031,2025-01-02,P0062,3.0,Eka,Jakarta,Credit,147489.0,49163.0,Oscar,Cichlid,130.0,AquaWorld,4.5,2025-01
+T0032,2025-02-10,P0420,2.0,Citra,Medan,Cash,67122.0,33561.0,Shark,Discus,95.5,AquaWorld,3.7,2025-02
+T0033,2025-04-19,P0356,2.0,Iwan,Jakarta,E-Wallet,115684.0,57842.0,Oscar,Tetra,177.0,ExoticFishID,3.1,2025-04
+T0034,2025-03-29,P0468,9.0,Dedi,Depok,Cash,39915.0,4435.0,Guppy,Livebearer,42.0,FishZone,3.7,2025-03
+T0036,2025-02-09,P0019,7.0,Andi,Depok,Cash,262920.0,37560.0,Oscar,Fighter,100.0,NishikigoiFarm,3.9,2025-02
+T0037,2025-02-25,P0365,5.0,Budi,Bandung,Credit,292770.0,58554.0,Discus,Discus,101.0,NishikigoiFarm,3.4,2025-02
+T0038,2025-03-28,P0300,7.0,Iwan,Depok,E-Wallet,332829.0,47547.0,Barb,Barb,95.5,FishZone,4.2,2025-03
+T0041,2025-04-08,P0428,10.0,Hana,Bekasi,Cash,292920.0,29292.0,Discus,Oddball,88.0,NishikigoiFarm,3.2,2025-04
+T0042,2025-01-25,P0117,10.0,Citra,Surabaya,Cash,679290.0,67929.0,Angelfish,Cichlid,157.0,AquaWorld,4.7,2025-01
+T0043,2025-04-02,P0068,7.0,Fatma,Jakarta,Transfer,549164.0,78452.0,Knifefish,Fighter,16.0,AquaWorld,4.3,2025-04
+T0044,2025-03-30,P0034,10.0,Dedi,Depok,Transfer,605450.0,60545.0,Betta Splendens,Fighter,162.0,FishZone,3.8,2025-03
+T0046,2025-03-09,P0325,6.0,Joko,Medan,Credit,369636.0,61606.0,Guppy,Koi,28.0,FishZone,4.3,2025-03
+T0047,2025-01-12,P0055,5.0,Citra,Jakarta,E-Wallet,200740.0,40148.0,Knifefish,Cichlid,92.0,FishHaven,3.9,2025-01
+T0048,2025-04-28,P0266,7.0,Fatma,Bogor,Transfer,216545.0,30935.0,Koi,Barb,129.0,ExoticFishID,4.1,2025-04
+T0049,2025-05-18,P0480,2.0,Joko,Bekasi,E-Wallet,159838.0,79919.0,Barb,Discus,46.0,FishHaven,3.4,2025-05
+T0052,2025-01-21,P0461,3.0,Andi,Jakarta,Credit,221943.0,73981.0,Shark,Barb,152.0,FishZone,4.4,2025-01
+T0053,2025-05-22,P0231,9.0,Citra,Jakarta,Credit,371322.0,41258.0,Koi,Discus,161.0,ExoticFishID,3.9,2025-05
+T0054,2025-03-17,P0453,6.0,Budi,Surabaya,Credit,226992.0,37832.0,Neon Tetra,Oddball,25.0,FishZone,4.6,2025-03
+T0055,2025-06-10,P0378,10.0,Hana,Surabaya,Credit,106570.0,10657.0,Guppy,Discus,135.0,FishZone,3.8,2025-06
+T0056,2025-06-08,P0394,3.0,Gilang,Medan,Transfer,139926.0,46642.0,Angelfish,Discus,104.0,AquaWorld,4.4,2025-06
+T0057,2025-04-03,P0010,7.0,Budi,Bandung,Cash,387303.0,55329.0,Discus,Barb,21.0,AquaWorld,4.7,2025-04
+T0058,2025-05-28,P0358,4.0,Fatma,Jakarta,Cash,164788.0,41197.0,Angelfish,Cichlid,118.0,NishikigoiFarm,3.6,2025-05
+T0059,2025-02-19,P0475,3.0,Citra,Jakarta,Cash,159576.0,53192.0,Guppy,Koi,170.0,AquaWorld,3.8,2025-02
+T0060,2025-01-18,P0444,8.0,Hana,Jakarta,Transfer,364272.0,45534.0,Koi,Oddball,98.0,FishZone,4.7,2025-01
+T0061,2025-01-12,P0128,4.0,Joko,Jakarta,Cash,36600.0,9150.0,Discus,Fighter,173.0,FishZone,4.3,2025-01
+T0062,2025-06-19,P0179,1.0,Citra,Surabaya,Transfer,25180.0,25180.0,Guppy,Tetra,99.0,FishZone,4.7,2025-06
+T0063,2025-02-28,P0405,6.0,Joko,Bekasi,Transfer,220452.0,36742.0,Oscar,Discus,175.0,ExoticFishID,4.2,2025-02
+T0064,2025-03-16,P0392,10.0,Iwan,Bekasi,Transfer,206740.0,20674.0,Discus,Koi,47.0,AquaWorld,3.8,2025-03
+T0065,2025-01-21,P0193,1.0,Andi,Medan,Cash,38737.0,38737.0,Knifefish,Discus,95.0,NishikigoiFarm,4.6,2025-01
+T0066,2025-03-01,P0092,5.0,Eka,Bogor,E-Wallet,148685.0,29737.0,Neon Tetra,Koi,44.0,NishikigoiFarm,4.3,2025-03
+T0067,2025-01-26,P0369,7.0,Citra,Depok,Cash,530250.0,75750.0,Discus,Koi,33.0,FishZone,3.4,2025-01
+T0068,2025-04-08,P0231,6.0,Fatma,Bandung,Cash,247548.0,41258.0,Koi,Discus,161.0,ExoticFishID,3.9,2025-04
+T0069,2025-03-13,P0078,2.0,Joko,Bekasi,Credit,10158.0,5079.0,Barb,Fighter,87.0,FishZone,4.5,2025-03
+T0070,2025-04-27,P0085,4.0,Budi,Bogor,Transfer,146144.0,36536.0,Knifefish,Discus,63.0,NishikigoiFarm,4.8,2025-04
+T0072,2025-04-04,P0213,1.0,Fatma,Bekasi,Credit,62129.0,62129.0,Shark,Tetra,147.0,FishZone,4.6,2025-04
+T0073,2025-02-11,P0049,3.0,Gilang,Medan,E-Wallet,220521.0,73507.0,Shark,Discus,78.0,FishZone,3.5,2025-02
+T0074,2025-04-05,P0265,3.0,Eka,Depok,E-Wallet,196656.0,65552.0,Barb,Cichlid,83.0,ExoticFishID,4.3,2025-04
+T0075,2025-04-01,P0145,7.0,Iwan,Bekasi,Transfer,123172.0,17596.0,Neon Tetra,Tetra,40.0,FishZone,3.4,2025-04
+T0077,2025-06-21,P0058,9.0,Eka,Surabaya,Transfer,120555.0,13395.0,Oscar,Shark,180.0,NishikigoiFarm,3.2,2025-06
+T0078,2025-03-10,P0185,6.0,Joko,Depok,Transfer,325356.0,54226.0,Betta Splendens,Cichlid,31.0,AquaWorld,3.4,2025-03
+T0079,2025-06-24,P0062,4.0,Fatma,Medan,Credit,196652.0,49163.0,Oscar,Cichlid,130.0,AquaWorld,4.5,2025-06
+T0080,2025-06-15,P0479,3.0,Gilang,Bogor,Transfer,71859.0,23953.0,Discus,Oddball,79.0,ExoticFishID,3.7,2025-06
+T0082,2025-06-05,P0445,2.0,Andi,Surabaya,E-Wallet,43574.0,21787.0,Knifefish,Fighter,199.0,FishZone,4.4,2025-06
+T0083,2025-06-12,P0296,2.0,Hana,Bogor,Transfer,53020.0,26510.0,Neon Tetra,Shark,19.0,NishikigoiFarm,3.5,2025-06
+T0084,2025-02-13,P0166,10.0,Joko,Medan,E-Wallet,580290.0,58029.0,Neon Tetra,Discus,40.0,NishikigoiFarm,4.0,2025-02
+T0085,2025-05-17,P0171,5.0,Dedi,Medan,Transfer,387660.0,77532.0,Betta Splendens,Fighter,86.0,ExoticFishID,4.6,2025-05
+T0086,2025-03-04,P0063,9.0,Citra,Bogor,E-Wallet,205344.0,22816.0,Guppy,Fighter,147.0,FishHaven,4.5,2025-03
+T0087,2025-02-11,P0147,2.0,Gilang,Bekasi,Transfer,8558.0,4279.0,Barb,Cichlid,7.0,FishHaven,4.8,2025-02
+T0088,2025-04-29,P0484,2.0,Budi,Depok,Credit,55720.0,27860.0,Barb,Fighter,24.0,NishikigoiFarm,3.3,2025-04
+T0089,2025-04-08,P0306,6.0,Hana,Surabaya,E-Wallet,462228.0,77038.0,Neon Tetra,Tetra,164.0,FishHaven,4.7,2025-04
+T0090,2025-03-11,P0161,10.0,Fatma,Jakarta,Transfer,308560.0,30856.0,Oscar,Discus,21.0,AquaWorld,4.6,2025-03
+T0091,2025-06-13,P0141,2.0,Gilang,Bandung,Transfer,91760.0,45880.0,Angelfish,Tetra,5.0,AquaWorld,3.3,2025-06
+T0093,2025-02-26,P0097,6.0,Iwan,Surabaya,Credit,349008.0,58168.0,Barb,Livebearer,10.0,Unknown,3.8,2025-02
+T0094,2025-06-25,P0446,5.0,Eka,Bogor,Credit,259225.0,51845.0,Guppy,Shark,109.0,AquaWorld,3.9,2025-06
+T0095,2025-03-25,P0221,1.0,Eka,Medan,E-Wallet,41890.0,41890.0,Neon Tetra,Cichlid,49.0,FishHaven,4.0,2025-03
+T0096,2025-01-15,P0043,6.0,Citra,Bogor,E-Wallet,66420.0,11070.0,Angelfish,Oddball,59.0,FishZone,3.0,2025-01
+T0097,2025-02-28,P0433,1.0,Andi,Surabaya,Credit,66620.0,66620.0,Angelfish,Cichlid,142.0,FishHaven,3.0,2025-02
+T0098,2025-01-09,P0292,3.0,Budi,Bogor,Cash,115305.0,38435.0,Betta Splendens,Cichlid,93.0,AquaWorld,3.2,2025-01
+T0099,2025-03-22,P0378,10.0,Hana,Bogor,Cash,106570.0,10657.0,Guppy,Discus,135.0,FishZone,3.8,2025-03
+T0100,2025-04-13,P0108,5.0,Andi,Bandung,Transfer,396090.0,79218.0,Knifefish,Oddball,85.0,FishZone,3.7,2025-04
+T0101,2025-03-10,P0266,10.0,Gilang,Bekasi,Cash,309350.0,30935.0,Koi,Barb,129.0,ExoticFishID,4.1,2025-03
+T0103,2025-02-24,P0262,10.0,Citra,Jakarta,E-Wallet,738550.0,73855.0,Guppy,Tetra,124.0,FishHaven,4.3,2025-02
+T0104,2025-05-26,P0313,6.0,Gilang,Jakarta,E-Wallet,101514.0,16919.0,Barb,Livebearer,155.0,AquaWorld,4.6,2025-05
+T0105,2025-03-22,P0385,10.0,Iwan,Bandung,Cash,570280.0,57028.0,Shark,Cichlid,195.0,FishZone,4.0,2025-03
+T0106,2025-02-24,P0071,8.0,Budi,Depok,E-Wallet,628160.0,78520.0,Knifefish,Livebearer,8.0,AquaWorld,3.1,2025-02
+T0107,2025-06-17,P0442,5.0,Hana,Depok,Credit,129450.0,25890.0,Guppy,Discus,101.0,Unknown,4.5,2025-06
+T0109,2025-04-12,P0021,5.0,Citra,Bogor,Cash,125580.0,25116.0,Discus,Koi,83.0,NishikigoiFarm,3.7,2025-04
+T0110,2025-06-14,P0092,3.0,Budi,Medan,Cash,89211.0,29737.0,Neon Tetra,Koi,44.0,NishikigoiFarm,4.3,2025-06
+T0111,2025-04-28,P0127,4.0,Gilang,Jakarta,Transfer,200228.0,50057.0,Koi,Koi,89.0,AquaWorld,4.7,2025-04
+T0112,2025-02-06,P0080,8.0,Eka,Medan,E-Wallet,501408.0,62676.0,Barb,Tetra,138.0,AquaWorld,4.6,2025-02
+T0114,2025-02-05,P0238,5.0,Joko,Bandung,Transfer,185100.0,37020.0,Barb,Oddball,124.0,Unknown,5.0,2025-02
+T0114,2025-02-05,P0238,5.0,Joko,Bandung,Transfer,185100.0,37020.0,Barb,Oddball,124.0,ExoticFishID,5.0,2025-02
+T0114,2025-02-05,P0238,5.0,Joko,Bandung,Transfer,185100.0,37020.0,Barb,Oddball,124.0,Unknown,5.0,2025-02
+T0114,2025-02-05,P0238,5.0,Joko,Bandung,Transfer,185100.0,37020.0,Barb,Oddball,124.0,ExoticFishID,5.0,2025-02
+T0115,2025-03-05,P0471,2.0,Eka,Depok,Credit,33014.0,16507.0,Shark,Cichlid,69.0,AquaWorld,4.3,2025-03
+T0116,2025-05-24,P0372,6.0,Dedi,Bogor,Credit,479388.0,79898.0,Oscar,Tetra,118.0,AquaWorld,3.7,2025-05
+T0117,2025-05-18,P0404,6.0,Eka,Depok,Credit,171354.0,28559.0,Discus,Livebearer,88.0,NishikigoiFarm,3.1,2025-05
+T0118,2025-03-09,P0486,10.0,Dedi,Bandung,Credit,244270.0,24427.0,Betta Splendens,Koi,50.0,FishZone,3.994650205761317,2025-03
+T0119,2025-05-30,P0182,10.0,Fatma,Medan,Transfer,438090.0,43809.0,Discus,Oddball,118.0,FishZone,5.0,2025-05
+T0120,2025-04-20,P0025,6.0,Dedi,Medan,Credit,247548.0,41258.0,Barb,Shark,196.0,FishZone,4.2,2025-04
+T0121,2025-05-30,P0156,9.0,Budi,Surabaya,E-Wallet,635778.0,70642.0,Discus,Discus,6.0,Unknown,4.8,2025-05
+T0122,2025-04-13,P0005,8.0,Iwan,Bogor,Credit,321752.0,40219.0,Shark,Barb,115.0,FishZone,4.1,2025-04
+T0123,2025-04-03,P0120,8.0,Budi,Bogor,Credit,278568.0,34821.0,Barb,Barb,115.0,NishikigoiFarm,3.994650205761317,2025-04
+T0124,2025-02-26,P0277,1.0,Iwan,Bogor,Credit,72768.0,72768.0,Neon Tetra,Koi,183.0,FishHaven,4.5,2025-02
+T0125,2025-02-05,P0018,5.0,Joko,Jakarta,Cash,83590.0,16718.0,Knifefish,Discus,46.0,FishZone,4.0,2025-02
+T0126,2025-05-11,P0431,7.0,Fatma,Medan,E-Wallet,398629.0,56947.0,Koi,Oddball,75.0,ExoticFishID,4.1,2025-05
+T0127,2025-05-07,P0198,6.0,Iwan,Bandung,E-Wallet,247548.0,41258.0,Koi,Discus,155.0,AquaWorld,4.3,2025-05
+T0128,2025-01-24,P0057,5.0,Iwan,Medan,Transfer,110485.0,22097.0,Guppy,Tetra,171.0,ExoticFishID,3.3,2025-01
+T0129,2025-01-13,P0093,8.0,Citra,Depok,Transfer,115880.0,14485.0,Discus,Fighter,32.0,ExoticFishID,4.9,2025-01
+T0130,2025-01-29,P0019,3.0,Andi,Jakarta,Cash,112680.0,37560.0,Oscar,Fighter,100.0,NishikigoiFarm,3.9,2025-01
+T0131,2025-02-09,P0384,6.0,Andi,Bogor,Cash,386478.0,64413.0,Angelfish,Oddball,45.0,ExoticFishID,4.7,2025-02
+T0133,2025-02-10,P0193,8.0,Eka,Surabaya,Transfer,309896.0,38737.0,Knifefish,Discus,95.0,NishikigoiFarm,4.6,2025-02
+T0134,2025-06-24,P0237,4.0,Citra,Jakarta,Credit,124580.0,31145.0,Shark,Cichlid,185.0,FishZone,3.9,2025-06
+T0135,2025-04-19,P0387,8.0,Iwan,Depok,Credit,293280.0,36660.0,Discus,Shark,0.0,FishHaven,5.0,2025-04
+T0136,2025-06-02,P0426,10.0,Iwan,Bogor,Transfer,361300.0,36130.0,Angelfish,Barb,53.0,FishHaven,4.7,2025-06
+T0137,2025-01-17,P0277,2.0,Citra,Depok,Transfer,145536.0,72768.0,Neon Tetra,Koi,183.0,FishHaven,4.5,2025-01
+T0139,2025-04-08,P0233,9.0,Eka,Bogor,Cash,525033.0,58337.0,Guppy,Fighter,5.0,ExoticFishID,4.3,2025-04
+T0140,2025-06-02,P0040,10.0,Budi,Depok,E-Wallet,526880.0,52688.0,Koi,Tetra,14.0,ExoticFishID,3.7,2025-06
+T0141,2025-04-30,P0323,10.0,Fatma,Bandung,Transfer,159840.0,15984.0,Guppy,Discus,19.0,FishZone,3.2,2025-04
+T0142,2025-05-16,P0153,6.0,Gilang,Surabaya,E-Wallet,291888.0,48648.0,Oscar,Barb,61.0,AquaWorld,3.1,2025-05
+T0143,2025-03-06,P0127,4.0,Iwan,Bekasi,E-Wallet,200228.0,50057.0,Koi,Koi,89.0,AquaWorld,4.7,2025-03
+T0144,2025-05-22,P0237,4.0,Fatma,Depok,Transfer,124580.0,31145.0,Shark,Cichlid,185.0,FishZone,3.9,2025-05
+T0145,2025-01-03,P0486,6.0,Citra,Depok,Credit,146562.0,24427.0,Betta Splendens,Koi,50.0,FishZone,3.994650205761317,2025-01
+T0146,2025-06-24,P0493,5.0,Eka,Medan,Cash,161205.0,32241.0,Knifefish,Cichlid,77.0,NishikigoiFarm,3.3,2025-06
+T0147,2025-01-30,P0055,6.0,Dedi,Surabaya,Credit,240888.0,40148.0,Knifefish,Cichlid,92.0,FishHaven,3.9,2025-01
+T0148,2025-06-24,P0468,7.0,Eka,Jakarta,Transfer,31045.0,4435.0,Guppy,Livebearer,42.0,FishZone,3.7,2025-06
+T0150,2025-03-10,P0172,9.0,Hana,Surabaya,Transfer,532197.0,59133.0,Neon Tetra,Tetra,11.0,NishikigoiFarm,3.8,2025-03
+T0151,2025-06-14,P0109,8.0,Fatma,Bogor,Cash,529840.0,66230.0,Oscar,Cichlid,91.0,ExoticFishID,3.2,2025-06
+T0152,2025-03-29,P0354,6.0,Andi,Bogor,Credit,163572.0,27262.0,Barb,Cichlid,51.0,ExoticFishID,3.7,2025-03
+T0153,2025-01-29,P0469,6.0,Hana,Bogor,Cash,177960.0,29660.0,Betta Splendens,Cichlid,175.0,FishZone,3.3,2025-01
+T0154,2025-03-17,P0184,5.0,Hana,Bekasi,Transfer,321980.0,64396.0,Neon Tetra,Cichlid,182.0,NishikigoiFarm,3.4,2025-03
+T0155,2025-04-22,P0439,1.0,Budi,Surabaya,E-Wallet,57302.0,57302.0,Koi,Tetra,48.0,ExoticFishID,3.2,2025-04
+T0156,2025-02-10,P0368,9.0,Dedi,Bekasi,Cash,691029.0,76781.0,Discus,Cichlid,174.0,AquaWorld,3.0,2025-02
+T0157,2025-04-27,P0471,9.0,Budi,Depok,Credit,148563.0,16507.0,Shark,Cichlid,69.0,AquaWorld,4.3,2025-04
+T0158,2025-01-01,P0198,9.0,Dedi,Bogor,Transfer,371322.0,41258.0,Koi,Discus,155.0,AquaWorld,4.3,2025-01
+T0159,2025-03-09,P0371,8.0,Joko,Depok,Cash,396800.0,49600.0,Koi,Koi,54.0,ExoticFishID,3.2,2025-03
+T0160,2025-05-09,P0373,10.0,Gilang,Bogor,E-Wallet,654830.0,65483.0,Koi,Koi,170.0,NishikigoiFarm,4.6,2025-05
+T0161,2025-02-15,P0461,3.0,Iwan,Bandung,Cash,221943.0,73981.0,Shark,Barb,152.0,FishZone,4.4,2025-02
+T0162,2025-05-10,P0497,1.0,Hana,Bekasi,Credit,41258.0,41258.0,Shark,Cichlid,51.0,NishikigoiFarm,3.6,2025-05
+T0163,2025-01-28,P0087,8.0,Iwan,Bekasi,Cash,330064.0,41258.0,Betta Splendens,Cichlid,109.0,FishZone,4.1,2025-01
+T0164,2025-06-10,P0201,7.0,Hana,Jakarta,E-Wallet,393932.0,56276.0,Oscar,Shark,92.0,NishikigoiFarm,4.8,2025-06
+T0165,2025-03-18,P0337,5.0,Budi,Medan,E-Wallet,189005.0,37801.0,Guppy,Cichlid,42.0,FishHaven,4.2,2025-03
+T0166,2025-06-13,P0322,10.0,Gilang,Surabaya,Credit,651870.0,65187.0,Shark,Barb,36.0,AquaWorld,3.2,2025-06
+T0167,2025-05-10,P0275,7.0,Budi,Jakarta,E-Wallet,82740.0,11820.0,Betta Splendens,Tetra,192.0,FishZone,3.8,2025-05
+T0168,2025-06-05,P0211,10.0,Budi,Bekasi,Transfer,78530.0,7853.0,Betta Splendens,Barb,188.0,FishZone,3.4,2025-06
+T0169,2025-02-20,P0391,4.0,Dedi,Jakarta,E-Wallet,150804.0,37701.0,Barb,Livebearer,52.0,FishZone,3.8,2025-02
+T0170,2025-02-09,P0118,9.0,Andi,Bandung,Transfer,688554.0,76506.0,Shark,Livebearer,160.0,ExoticFishID,4.4,2025-02
+T0171,2025-04-06,P0191,10.0,Eka,Medan,Cash,620520.0,62052.0,Koi,Tetra,149.0,ExoticFishID,3.2,2025-04
+T0174,2025-05-16,P0315,9.0,Joko,Surabaya,Cash,386766.0,42974.0,Oscar,Cichlid,133.0,AquaWorld,4.2,2025-05
+T0175,2025-01-01,P0276,5.0,Hana,Bogor,E-Wallet,135350.0,27070.0,Neon Tetra,Fighter,167.0,FishZone,3.1,2025-01
+T0176,2025-06-03,P0329,1.0,Budi,Medan,Transfer,6430.0,6430.0,Neon Tetra,Cichlid,197.0,ExoticFishID,4.0,2025-06
+T0177,2025-03-24,P0017,7.0,Andi,Bandung,E-Wallet,356174.0,50882.0,Guppy,Discus,20.0,FishHaven,4.6,2025-03
+T0178,2025-05-06,P0283,10.0,Budi,Depok,Cash,572370.0,57237.0,Oscar,Livebearer,138.0,FishHaven,4.5,2025-05
+T0179,2025-01-05,P0431,10.0,Gilang,Jakarta,Credit,569470.0,56947.0,Koi,Oddball,75.0,ExoticFishID,4.1,2025-01
+T0180,2025-01-29,P0258,4.0,Dedi,Surabaya,E-Wallet,19000.0,4750.0,Betta Splendens,Discus,165.0,NishikigoiFarm,4.9,2025-01
+T0182,2025-03-20,P0062,6.0,Eka,Depok,Credit,294978.0,49163.0,Oscar,Cichlid,130.0,AquaWorld,4.5,2025-03
+T0183,2025-03-03,P0100,3.0,Gilang,Bandung,Credit,131418.0,43806.0,Knifefish,Tetra,40.0,AquaWorld,5.0,2025-03
+T0184,2025-01-15,P0019,6.0,Citra,Medan,Cash,225360.0,37560.0,Oscar,Fighter,100.0,NishikigoiFarm,3.9,2025-01
+T0185,2025-03-03,P0017,10.0,Joko,Jakarta,E-Wallet,508820.0,50882.0,Guppy,Discus,20.0,FishHaven,4.6,2025-03
+T0186,2025-05-26,P0325,6.0,Budi,Surabaya,E-Wallet,369636.0,61606.0,Guppy,Koi,28.0,FishZone,4.3,2025-05
+T0187,2025-01-21,P0423,5.0,Gilang,Bekasi,Cash,113115.0,22623.0,Discus,Koi,74.0,FishHaven,4.3,2025-01
+T0188,2025-01-22,P0466,2.0,Eka,Bekasi,E-Wallet,32562.0,16281.0,Angelfish,Koi,43.0,NishikigoiFarm,3.3,2025-01
+T0189,2025-05-05,P0373,10.0,Andi,Depok,Transfer,654830.0,65483.0,Koi,Koi,170.0,NishikigoiFarm,4.6,2025-05
+T0190,2025-01-18,P0246,10.0,Andi,Depok,Transfer,245200.0,24520.0,Knifefish,Livebearer,25.0,AquaWorld,4.7,2025-01
+T0191,2025-05-17,P0251,2.0,Iwan,Jakarta,Transfer,8682.0,4341.0,Knifefish,Discus,171.0,NishikigoiFarm,4.4,2025-05
+T0192,2025-02-02,P0455,7.0,Eka,Medan,E-Wallet,528815.0,75545.0,Knifefish,Koi,47.0,ExoticFishID,4.8,2025-02
+T0193,2025-02-02,P0081,2.0,Andi,Bandung,Transfer,61904.0,30952.0,Shark,Barb,63.0,AquaWorld,3.1,2025-02
+T0194,2025-06-18,P0039,6.0,Gilang,Bogor,Transfer,400386.0,66731.0,Guppy,Cichlid,17.0,FishZone,3.4,2025-06
+T0195,2025-05-02,P0036,5.0,Iwan,Medan,Cash,81120.0,16224.0,Discus,Livebearer,24.0,FishHaven,3.8,2025-05
+T0196,2025-05-21,P0424,4.0,Andi,Medan,Cash,282700.0,70675.0,Shark,Barb,128.0,FishZone,4.0,2025-05
+T0197,2025-02-12,P0429,7.0,Joko,Medan,Credit,505918.0,72274.0,Koi,Oddball,142.0,ExoticFishID,4.8,2025-02
+T0198,2025-03-09,P0388,8.0,Dedi,Bogor,Credit,630064.0,78758.0,Angelfish,Cichlid,146.0,NishikigoiFarm,3.3,2025-03
+T0199,2025-05-16,P0486,4.0,Citra,Jakarta,Credit,97708.0,24427.0,Betta Splendens,Koi,50.0,FishZone,3.994650205761317,2025-05
+T0200,2025-06-05,P0409,1.0,Eka,Bogor,Credit,73831.0,73831.0,Betta Splendens,Fighter,158.0,FishZone,3.9,2025-06
+T0201,2025-04-19,P0197,1.0,Gilang,Jakarta,Cash,64120.0,64120.0,Discus,Discus,130.0,FishZone,5.0,2025-04
+T0202,2025-02-24,P0158,1.0,Hana,Bogor,Cash,54920.0,54920.0,Betta Splendens,Cichlid,131.0,FishHaven,4.0,2025-02
+T0203,2025-05-19,P0204,1.0,Budi,Bandung,Cash,75355.0,75355.0,Oscar,Cichlid,96.0,NishikigoiFarm,3.0,2025-05
+T0204,2025-02-21,P0196,5.0,Gilang,Medan,Transfer,208545.0,41709.0,Knifefish,Shark,58.0,AquaWorld,3.8,2025-02
+T0205,2025-03-21,P0216,4.0,Andi,Jakarta,Transfer,139948.0,34987.0,Neon Tetra,Cichlid,107.0,NishikigoiFarm,3.6,2025-03
+T0206,2025-04-13,P0285,9.0,Gilang,Bogor,Credit,256590.0,28510.0,Oscar,Oddball,194.0,FishHaven,3.0,2025-04
+T0207,2025-06-21,P0457,3.0,Hana,Bandung,Transfer,120933.0,40311.0,Guppy,Koi,197.0,FishZone,3.6,2025-06
+T0208,2025-06-16,P0196,7.0,Budi,Bogor,E-Wallet,291963.0,41709.0,Knifefish,Shark,58.0,AquaWorld,3.8,2025-06
+T0209,2025-04-06,P0307,8.0,Iwan,Bekasi,Cash,443144.0,55393.0,Koi,Koi,174.0,NishikigoiFarm,4.3,2025-04
+T0210,2025-04-23,P0152,6.0,Andi,Bandung,Credit,197850.0,32975.0,Shark,Livebearer,83.0,NishikigoiFarm,4.5,2025-04
+T0211,2025-05-13,P0014,10.0,Fatma,Medan,Credit,473270.0,47327.0,Betta Splendens,Koi,125.0,FishHaven,3.7,2025-05
+T0212,2025-04-26,P0325,1.0,Andi,Surabaya,E-Wallet,61606.0,61606.0,Guppy,Koi,28.0,FishZone,4.3,2025-04
+T0213,2025-01-31,P0146,8.0,Citra,Medan,Transfer,292576.0,36572.0,Neon Tetra,Discus,113.0,AquaWorld,4.8,2025-01
+T0214,2025-03-05,P0426,10.0,Fatma,Surabaya,Credit,361300.0,36130.0,Angelfish,Barb,53.0,FishHaven,4.7,2025-03
+T0215,2025-02-27,P0057,3.0,Citra,Bandung,Transfer,66291.0,22097.0,Guppy,Tetra,171.0,ExoticFishID,3.3,2025-02
+T0216,2025-01-17,P0211,8.0,Hana,Bekasi,Transfer,62824.0,7853.0,Betta Splendens,Barb,188.0,FishZone,3.4,2025-01
+T0217,2025-03-28,P0268,4.0,Eka,Bekasi,E-Wallet,130844.0,32711.0,Koi,Cichlid,144.0,FishHaven,3.9,2025-03
+T0218,2025-01-06,P0210,8.0,Budi,Jakarta,Credit,569976.0,71247.0,Betta Splendens,Koi,185.0,FishHaven,4.5,2025-01
+T0219,2025-05-31,P0017,1.0,Dedi,Bekasi,Transfer,50882.0,50882.0,Guppy,Discus,20.0,FishHaven,4.6,2025-05
+T0220,2025-05-22,P0286,3.0,Iwan,Depok,Transfer,67278.0,22426.0,Knifefish,Fighter,117.0,FishZone,4.9,2025-05
+T0221,2025-02-28,P0344,6.0,Dedi,Bandung,E-Wallet,466146.0,77691.0,Koi,Fighter,170.0,AquaWorld,3.8,2025-02
+T0222,2025-05-31,P0203,9.0,Joko,Jakarta,E-Wallet,504018.0,56002.0,Barb,Livebearer,190.0,FishHaven,3.3,2025-05
+T0223,2025-02-26,P0099,2.0,Joko,Bekasi,Transfer,30684.0,15342.0,Barb,Tetra,87.0,FishHaven,4.5,2025-02
+T0224,2025-01-02,P0279,1.0,Hana,Bandung,E-Wallet,76543.0,76543.0,Oscar,Cichlid,44.0,FishHaven,3.6,2025-01
+T0225,2025-01-19,P0209,10.0,Eka,Medan,Transfer,261500.0,26150.0,Angelfish,Livebearer,158.0,FishHaven,3.2,2025-01
+T0226,2025-06-11,P0129,3.0,Joko,Bekasi,Credit,22275.0,7425.0,Shark,Cichlid,121.0,AquaWorld,3.9,2025-06
+T0227,2025-01-16,P0335,4.0,Andi,Bogor,Cash,111804.0,27951.0,Angelfish,Discus,19.0,FishHaven,4.8,2025-01
+T0228,2025-02-28,P0288,5.0,Gilang,Surabaya,E-Wallet,206290.0,41258.0,Discus,Fighter,79.0,FishHaven,3.6,2025-02
+T0229,2025-01-18,P0252,3.0,Citra,Bandung,Cash,142869.0,47623.0,Koi,Livebearer,13.0,NishikigoiFarm,4.0,2025-01
+T0230,2025-01-09,P0265,10.0,Joko,Jakarta,Transfer,655520.0,65552.0,Barb,Cichlid,83.0,ExoticFishID,4.3,2025-01
+T0231,2025-03-26,P0271,2.0,Hana,Medan,Transfer,118552.0,59276.0,Koi,Cichlid,27.0,FishZone,4.1,2025-03
+T0232,2025-01-19,P0412,2.0,Citra,Depok,Transfer,12040.0,6020.0,Barb,Oddball,124.0,AquaWorld,3.8,2025-01
+T0233,2025-05-12,P0408,7.0,Andi,Medan,Cash,48804.0,6972.0,Angelfish,Livebearer,76.0,ExoticFishID,3.8,2025-05
+T0234,2025-03-02,P0188,9.0,Eka,Bekasi,Transfer,448452.0,49828.0,Angelfish,Cichlid,81.0,FishZone,3.3,2025-03
+T0235,2025-03-13,P0419,10.0,Budi,Surabaya,E-Wallet,143030.0,14303.0,Discus,Discus,140.0,ExoticFishID,4.4,2025-03
+T0236,2025-06-21,P0214,2.0,Dedi,Medan,Credit,154956.0,77478.0,Koi,Oddball,36.0,NishikigoiFarm,4.1,2025-06
+T0237,2025-05-05,P0283,7.0,Andi,Depok,Credit,400659.0,57237.0,Oscar,Livebearer,138.0,FishHaven,4.5,2025-05
+T0238,2025-02-24,P0211,7.0,Iwan,Bogor,E-Wallet,54971.0,7853.0,Betta Splendens,Barb,188.0,FishZone,3.4,2025-02
+T0239,2025-05-19,P0365,7.0,Fatma,Jakarta,Credit,409878.0,58554.0,Discus,Discus,101.0,NishikigoiFarm,3.4,2025-05
+T0240,2025-02-03,P0076,3.0,Hana,Bandung,Cash,110157.0,36719.0,Angelfish,Shark,116.0,FishZone,3.5,2025-02
+T0241,2025-05-27,P0148,7.0,Dedi,Surabaya,Transfer,463379.0,66197.0,Barb,Barb,71.0,NishikigoiFarm,4.7,2025-05
+T0243,2025-05-02,P0213,10.0,Budi,Bekasi,Transfer,621290.0,62129.0,Shark,Tetra,147.0,FishZone,4.6,2025-05
+T0244,2025-03-04,P0433,1.0,Iwan,Bekasi,Cash,66620.0,66620.0,Angelfish,Cichlid,142.0,FishHaven,3.0,2025-03
+T0245,2025-05-02,P0109,5.0,Eka,Bekasi,Cash,331150.0,66230.0,Oscar,Cichlid,91.0,ExoticFishID,3.2,2025-05
+T0246,2025-04-15,P0129,2.0,Fatma,Surabaya,Cash,14850.0,7425.0,Shark,Cichlid,121.0,AquaWorld,3.9,2025-04
+T0247,2025-02-18,P0010,9.0,Citra,Medan,E-Wallet,497961.0,55329.0,Discus,Barb,21.0,AquaWorld,4.7,2025-02
+T0248,2025-01-25,P0047,7.0,Dedi,Surabaya,Cash,68481.0,9783.0,Guppy,Cichlid,52.0,FishZone,3.6,2025-01
+T0249,2025-01-25,P0379,4.0,Fatma,Bekasi,Credit,113700.0,28425.0,Angelfish,Koi,46.0,FishZone,4.0,2025-01
+T0250,2025-06-18,P0315,4.0,Gilang,Bogor,E-Wallet,171896.0,42974.0,Oscar,Cichlid,133.0,AquaWorld,4.2,2025-06
+T0251,2025-04-21,P0096,2.0,Andi,Depok,E-Wallet,136310.0,68155.0,Angelfish,Barb,135.0,ExoticFishID,3.1,2025-04
+T0252,2025-04-01,P0446,5.0,Gilang,Bandung,E-Wallet,259225.0,51845.0,Guppy,Shark,109.0,AquaWorld,3.9,2025-04
+T0253,2025-04-19,P0103,4.0,Andi,Bandung,Cash,222412.0,55603.0,Shark,Cichlid,120.0,NishikigoiFarm,3.4,2025-04
+T0254,2025-04-16,P0380,1.0,Eka,Surabaya,E-Wallet,29685.0,29685.0,Betta Splendens,Fighter,112.0,FishZone,4.2,2025-04
+T0255,2025-04-30,P0342,8.0,Fatma,Bekasi,Cash,307200.0,38400.0,Barb,Barb,38.0,AquaWorld,4.0,2025-04
+T0256,2025-01-14,P0146,3.0,Budi,Jakarta,Cash,109716.0,36572.0,Neon Tetra,Discus,113.0,AquaWorld,4.8,2025-01
+T0257,2025-06-22,P0368,6.0,Joko,Bogor,E-Wallet,460686.0,76781.0,Discus,Cichlid,174.0,AquaWorld,3.0,2025-06
+T0258,2025-06-17,P0430,4.0,Iwan,Surabaya,Cash,21876.0,5469.0,Guppy,Shark,64.0,FishZone,3.1,2025-06
+T0259,2025-06-15,P0416,9.0,Joko,Bekasi,Transfer,48564.0,5396.0,Discus,Discus,18.0,FishHaven,3.7,2025-06
+T0260,2025-01-26,P0027,7.0,Fatma,Medan,E-Wallet,283010.0,40430.0,Angelfish,Shark,0.0,FishHaven,5.0,2025-01
+T0261,2025-01-16,P0220,9.0,Gilang,Bandung,Transfer,435780.0,48420.0,Knifefish,Koi,151.0,NishikigoiFarm,3.7,2025-01
+T0262,2025-04-14,P0018,10.0,Joko,Bandung,Credit,167180.0,16718.0,Knifefish,Discus,46.0,FishZone,4.0,2025-04
+T0264,2025-01-28,P0433,1.0,Joko,Bandung,Cash,66620.0,66620.0,Angelfish,Cichlid,142.0,FishHaven,3.0,2025-01
+T0265,2025-03-05,P0477,5.0,Andi,Jakarta,Transfer,383045.0,76609.0,Koi,Koi,150.0,ExoticFishID,4.4,2025-03
+T0266,2025-02-19,P0082,3.0,Hana,Bekasi,Cash,136380.0,45460.0,Barb,Oddball,71.0,ExoticFishID,4.0,2025-02
+T0267,2025-02-18,P0428,6.0,Dedi,Bekasi,E-Wallet,175752.0,29292.0,Discus,Oddball,88.0,NishikigoiFarm,3.2,2025-02
+T0268,2025-05-18,P0072,8.0,Joko,Bogor,Transfer,38072.0,4759.0,Discus,Cichlid,165.0,AquaWorld,3.6,2025-05
+T0269,2025-04-25,P0310,4.0,Hana,Bekasi,Credit,314128.0,78532.0,Neon Tetra,Cichlid,119.0,FishHaven,3.4,2025-04
+T0270,2025-02-05,P0479,5.0,Fatma,Bogor,Credit,119765.0,23953.0,Discus,Oddball,79.0,ExoticFishID,3.7,2025-02
+T0271,2025-04-19,P0254,5.0,Iwan,Bekasi,E-Wallet,372155.0,74431.0,Knifefish,Cichlid,1.0,FishHaven,3.4,2025-04
+T0272,2025-02-16,P0162,4.0,Dedi,Jakarta,Cash,22292.0,5573.0,Knifefish,Cichlid,153.0,AquaWorld,3.8,2025-02
+T0273,2025-03-13,P0327,4.0,Budi,Depok,E-Wallet,212288.0,53072.0,Neon Tetra,Livebearer,118.0,FishHaven,4.8,2025-03
+T0274,2025-04-29,P0420,4.0,Budi,Surabaya,Cash,134244.0,33561.0,Shark,Discus,95.5,AquaWorld,3.7,2025-04
+T0275,2025-03-05,P0402,4.0,Eka,Surabaya,Credit,247048.0,61762.0,Neon Tetra,Tetra,160.0,NishikigoiFarm,3.1,2025-03
+T0276,2025-01-20,P0038,4.0,Joko,Bekasi,Cash,112600.0,28150.0,Shark,Cichlid,11.0,AquaWorld,4.2,2025-01
+T0277,2025-04-24,P0443,5.0,Iwan,Medan,Credit,197545.0,39509.0,Neon Tetra,Oddball,10.0,FishHaven,4.3,2025-04
+T0278,2025-05-21,P0393,2.0,Citra,Bandung,Credit,53748.0,26874.0,Neon Tetra,Tetra,68.0,FishZone,3.994650205761317,2025-05
+T0279,2025-01-26,P0201,2.0,Hana,Jakarta,Transfer,112552.0,56276.0,Oscar,Shark,92.0,NishikigoiFarm,4.8,2025-01
+T0281,2025-06-16,P0200,2.0,Fatma,Medan,Cash,29110.0,14555.0,Oscar,Fighter,188.0,AquaWorld,3.3,2025-06
+T0282,2025-05-19,P0255,6.0,Joko,Bekasi,Cash,91524.0,15254.0,Koi,Discus,118.0,NishikigoiFarm,3.1,2025-05
+T0283,2025-01-04,P0179,2.0,Fatma,Jakarta,E-Wallet,50360.0,25180.0,Guppy,Tetra,99.0,FishZone,4.7,2025-01
+T0284,2025-01-24,P0035,5.0,Citra,Surabaya,Transfer,211120.0,42224.0,Shark,Shark,63.0,AquaWorld,4.7,2025-01
+T0285,2025-03-02,P0082,4.0,Eka,Bandung,Transfer,181840.0,45460.0,Barb,Oddball,71.0,ExoticFishID,4.0,2025-03
+T0286,2025-02-12,P0389,7.0,Citra,Surabaya,Transfer,444528.0,63504.0,Discus,Livebearer,30.0,FishZone,3.5,2025-02
+T0287,2025-04-15,P0398,7.0,Andi,Medan,E-Wallet,225344.0,32192.0,Oscar,Oddball,191.0,FishZone,4.9,2025-04
+T0288,2025-05-05,P0220,6.0,Gilang,Bandung,Cash,290520.0,48420.0,Knifefish,Koi,151.0,NishikigoiFarm,3.7,2025-05
+T0289,2025-05-04,P0158,10.0,Dedi,Depok,Cash,549200.0,54920.0,Betta Splendens,Cichlid,131.0,FishHaven,4.0,2025-05
+T0290,2025-02-24,P0004,5.0,Gilang,Medan,Cash,214575.0,42915.0,Discus,Koi,74.0,FishZone,4.1,2025-02
+T0291,2025-04-13,P0167,1.0,Citra,Surabaya,Transfer,20685.0,20685.0,Angelfish,Discus,187.0,FishZone,3.6,2025-04
+T0292,2025-01-16,P0468,3.0,Eka,Surabaya,Transfer,13305.0,4435.0,Guppy,Livebearer,42.0,FishZone,3.7,2025-01
+T0293,2025-02-12,P0448,9.0,Eka,Bekasi,Credit,324558.0,36062.0,Neon Tetra,Cichlid,193.0,FishHaven,3.6,2025-02
+T0294,2025-04-08,P0409,1.0,Budi,Surabaya,E-Wallet,73831.0,73831.0,Betta Splendens,Fighter,158.0,FishZone,3.9,2025-04
+T0295,2025-01-01,P0412,5.0,Joko,Jakarta,E-Wallet,30100.0,6020.0,Barb,Oddball,124.0,AquaWorld,3.8,2025-01
+T0296,2025-04-10,P0204,2.0,Budi,Medan,Transfer,150710.0,75355.0,Oscar,Cichlid,96.0,NishikigoiFarm,3.0,2025-04
+T0297,2025-03-09,P0194,4.0,Dedi,Bogor,Credit,129492.0,32373.0,Neon Tetra,Barb,55.0,FishZone,4.0,2025-03
+T0298,2025-04-27,P0235,1.0,Dedi,Bogor,Cash,27354.0,27354.0,Discus,Shark,169.0,FishZone,3.7,2025-04
+T0299,2025-03-15,P0206,3.0,Dedi,Bandung,Transfer,42138.0,14046.0,Koi,Livebearer,75.0,ExoticFishID,4.1,2025-03
+T0300,2025-04-19,P0150,10.0,Fatma,Surabaya,E-Wallet,100830.0,10083.0,Barb,Tetra,91.0,FishZone,3.9,2025-04
+T0301,2025-05-23,P0159,7.0,Budi,Bekasi,E-Wallet,220703.0,31529.0,Angelfish,Tetra,133.0,FishZone,3.2,2025-05
+T0302,2025-06-19,P0279,10.0,Fatma,Bekasi,E-Wallet,765430.0,76543.0,Oscar,Cichlid,44.0,FishHaven,3.6,2025-06
+T0303,2025-05-05,P0304,3.0,Gilang,Surabaya,Cash,91035.0,30345.0,Discus,Cichlid,120.0,ExoticFishID,3.1,2025-05
+T0304,2025-02-09,P0404,4.0,Joko,Jakarta,E-Wallet,114236.0,28559.0,Discus,Livebearer,88.0,NishikigoiFarm,3.1,2025-02
+T0305,2025-02-18,P0381,2.0,Citra,Bekasi,Cash,82516.0,41258.0,Neon Tetra,Tetra,75.0,FishHaven,3.2,2025-02
+T0306,2025-03-17,P0166,3.0,Hana,Bogor,Cash,174087.0,58029.0,Neon Tetra,Discus,40.0,NishikigoiFarm,4.0,2025-03
+T0307,2025-02-25,P0311,9.0,Budi,Bandung,Cash,277092.0,30788.0,Betta Splendens,Fighter,43.0,FishZone,3.2,2025-02
+T0308,2025-01-15,P0068,3.0,Hana,Medan,Transfer,235356.0,78452.0,Knifefish,Fighter,16.0,AquaWorld,4.3,2025-01
+T0310,2025-05-19,P0088,2.0,Budi,Jakarta,Credit,102604.0,51302.0,Neon Tetra,Discus,94.0,FishHaven,3.8,2025-05
+T0311,2025-01-16,P0217,4.0,Gilang,Bekasi,E-Wallet,75400.0,18850.0,Knifefish,Fighter,125.0,FishHaven,3.9,2025-01
+T0312,2025-03-22,P0001,7.0,Budi,Medan,Transfer,128296.0,18328.0,Shark,Barb,118.0,ExoticFishID,4.3,2025-03
+T0313,2025-01-15,P0135,7.0,Fatma,Depok,E-Wallet,288806.0,41258.0,Guppy,Cichlid,103.0,FishHaven,4.6,2025-01
+T0314,2025-01-13,P0185,3.0,Joko,Surabaya,Cash,162678.0,54226.0,Betta Splendens,Cichlid,31.0,AquaWorld,3.4,2025-01
+T0315,2025-05-30,P0351,5.0,Citra,Surabaya,Transfer,163785.0,32757.0,Shark,Livebearer,127.0,FishHaven,4.3,2025-05
+T0316,2025-05-03,P0140,1.0,Iwan,Bandung,Credit,11705.0,11705.0,Koi,Oddball,8.0,NishikigoiFarm,3.5,2025-05
+T0317,2025-05-09,P0106,10.0,Citra,Depok,Cash,581060.0,58106.0,Discus,Barb,79.0,ExoticFishID,4.9,2025-05
+T0318,2025-05-16,P0133,10.0,Citra,Surabaya,E-Wallet,563940.0,56394.0,Betta Splendens,Barb,171.0,NishikigoiFarm,3.1,2025-05
+T0319,2025-02-10,P0108,10.0,Eka,Surabaya,Credit,792180.0,79218.0,Knifefish,Oddball,85.0,FishZone,3.7,2025-02
+T0320,2025-01-15,P0178,1.0,Gilang,Bogor,Cash,42952.0,42952.0,Guppy,Tetra,54.0,FishZone,3.6,2025-01
+T0321,2025-05-11,P0298,5.0,Hana,Bekasi,Cash,299230.0,59846.0,Oscar,Cichlid,170.0,FishZone,3.9,2025-05
+T0322,2025-01-21,P0358,10.0,Gilang,Bandung,Cash,411970.0,41197.0,Angelfish,Cichlid,118.0,NishikigoiFarm,3.6,2025-01
+T0323,2025-02-17,P0380,9.0,Iwan,Medan,Transfer,267165.0,29685.0,Betta Splendens,Fighter,112.0,FishZone,4.2,2025-02
+T0324,2025-01-18,P0396,1.0,Eka,Surabaya,Cash,20602.0,20602.0,Neon Tetra,Tetra,189.0,ExoticFishID,3.6,2025-01
+T0325,2025-06-02,P0359,1.0,Joko,Bogor,Transfer,44844.0,44844.0,Oscar,Fighter,7.0,ExoticFishID,4.9,2025-06
+T0326,2025-01-18,P0146,4.0,Citra,Jakarta,Cash,146288.0,36572.0,Neon Tetra,Discus,113.0,AquaWorld,4.8,2025-01
+T0327,2025-06-22,P0450,4.0,Fatma,Jakarta,Cash,253844.0,63461.0,Betta Splendens,Fighter,8.0,AquaWorld,4.6,2025-06
+T0328,2025-03-02,P0074,2.0,Eka,Medan,E-Wallet,10964.0,5482.0,Discus,Oddball,187.0,ExoticFishID,3.5,2025-03
+T0329,2025-04-14,P0463,9.0,Dedi,Depok,Credit,454653.0,50517.0,Angelfish,Discus,132.0,FishHaven,3.7,2025-04
+T0330,2025-01-31,P0478,9.0,Budi,Bandung,Credit,371322.0,41258.0,Barb,Oddball,106.0,ExoticFishID,4.2,2025-01
+T0331,2025-05-26,P0108,2.0,Gilang,Bogor,Credit,158436.0,79218.0,Knifefish,Oddball,85.0,FishZone,3.7,2025-05
+T0332,2025-03-05,P0122,9.0,Eka,Bekasi,Cash,571815.0,63535.0,Angelfish,Cichlid,149.0,FishZone,3.2,2025-03
+T0333,2025-05-29,P0017,6.0,Dedi,Bogor,Cash,305292.0,50882.0,Guppy,Discus,20.0,FishHaven,4.6,2025-05
+T0334,2025-06-02,P0196,8.0,Hana,Jakarta,Cash,333672.0,41709.0,Knifefish,Shark,58.0,AquaWorld,3.8,2025-06
+T0335,2025-01-11,P0327,10.0,Iwan,Jakarta,Transfer,530720.0,53072.0,Neon Tetra,Livebearer,118.0,FishHaven,4.8,2025-01
+T0336,2025-06-08,P0318,4.0,Iwan,Medan,Transfer,130516.0,32629.0,Knifefish,Oddball,147.0,AquaWorld,4.0,2025-06
+T0337,2025-01-21,P0297,2.0,Citra,Depok,E-Wallet,87996.0,43998.0,Discus,Discus,7.0,FishHaven,3.0,2025-01
+T0338,2025-04-18,P0479,2.0,Citra,Depok,Cash,47906.0,23953.0,Discus,Oddball,79.0,ExoticFishID,3.7,2025-04
+T0339,2025-06-18,P0499,9.0,Eka,Medan,Credit,85860.0,9540.0,Barb,Livebearer,156.0,NishikigoiFarm,3.2,2025-06
+T0340,2025-05-30,P0252,1.0,Eka,Bogor,Credit,47623.0,47623.0,Koi,Livebearer,13.0,NishikigoiFarm,4.0,2025-05
+T0341,2025-05-25,P0487,7.0,Joko,Jakarta,E-Wallet,210581.0,30083.0,Neon Tetra,Cichlid,14.0,ExoticFishID,4.0,2025-05
+T0342,2025-05-14,P0119,3.0,Budi,Bogor,Credit,113733.0,37911.0,Shark,Discus,76.0,FishZone,3.1,2025-05
+T0343,2025-03-22,P0162,3.0,Andi,Bogor,E-Wallet,16719.0,5573.0,Knifefish,Cichlid,153.0,AquaWorld,3.8,2025-03
+T0344,2025-03-08,P0198,2.0,Hana,Bandung,Cash,82516.0,41258.0,Koi,Discus,155.0,AquaWorld,4.3,2025-03
+T0345,2025-02-22,P0498,10.0,Citra,Jakarta,Credit,172880.0,17288.0,Shark,Oddball,26.0,AquaWorld,4.8,2025-02
+T0346,2025-06-21,P0486,6.0,Andi,Depok,Cash,146562.0,24427.0,Betta Splendens,Koi,50.0,FishZone,3.994650205761317,2025-06
+T0347,2025-03-22,P0045,10.0,Andi,Bekasi,Transfer,607610.0,60761.0,Angelfish,Barb,144.0,NishikigoiFarm,3.5,2025-03
+T0348,2025-03-03,P0314,2.0,Budi,Bogor,Credit,144692.0,72346.0,Angelfish,Koi,110.0,AquaWorld,3.1,2025-03
+T0349,2025-03-09,P0179,10.0,Fatma,Jakarta,Transfer,251800.0,25180.0,Guppy,Tetra,99.0,FishZone,4.7,2025-03
+T0350,2025-04-12,P0382,4.0,Fatma,Bogor,Credit,127324.0,31831.0,Knifefish,Cichlid,71.0,NishikigoiFarm,3.7,2025-04
+T0351,2025-02-03,P0418,10.0,Citra,Bandung,Cash,412580.0,41258.0,Angelfish,Discus,81.0,ExoticFishID,4.3,2025-02
+T0353,2025-06-15,P0271,9.0,Budi,Jakarta,Cash,533484.0,59276.0,Koi,Cichlid,27.0,FishZone,4.1,2025-06
+T0354,2025-03-18,P0078,6.0,Budi,Medan,Cash,30474.0,5079.0,Barb,Fighter,87.0,FishZone,4.5,2025-03
+T0355,2025-04-28,P0326,4.0,Gilang,Surabaya,Cash,54464.0,13616.0,Angelfish,Cichlid,0.0,NishikigoiFarm,4.7,2025-04
+T0356,2025-03-22,P0178,7.0,Andi,Bogor,Credit,300664.0,42952.0,Guppy,Tetra,54.0,FishZone,3.6,2025-03
+T0357,2025-01-19,P0357,1.0,Gilang,Medan,E-Wallet,59979.0,59979.0,Angelfish,Oddball,123.0,ExoticFishID,3.3,2025-01
+T0359,2025-04-28,P0416,5.0,Fatma,Medan,Cash,26980.0,5396.0,Discus,Discus,18.0,FishHaven,3.7,2025-04
+T0360,2025-06-09,P0451,8.0,Citra,Jakarta,Cash,627344.0,78418.0,Discus,Shark,2.0,NishikigoiFarm,3.9,2025-06
+T0361,2025-05-25,P0003,2.0,Hana,Depok,Transfer,60612.0,30306.0,Knifefish,Tetra,156.0,NishikigoiFarm,4.2,2025-05
+T0362,2025-01-26,P0214,5.0,Fatma,Bogor,Cash,387390.0,77478.0,Koi,Oddball,36.0,NishikigoiFarm,4.1,2025-01
+T0363,2025-01-19,P0342,6.0,Budi,Surabaya,Transfer,230400.0,38400.0,Barb,Barb,38.0,AquaWorld,4.0,2025-01
+T0364,2025-05-18,P0074,5.0,Hana,Bandung,Cash,27410.0,5482.0,Discus,Oddball,187.0,ExoticFishID,3.5,2025-05
+T0365,2025-02-24,P0051,9.0,Eka,Depok,Cash,664515.0,73835.0,Betta Splendens,Cichlid,173.0,Unknown,4.7,2025-02
+T0366,2025-05-10,P0067,10.0,Hana,Bogor,Transfer,245660.0,24566.0,Koi,Cichlid,198.0,FishZone,4.5,2025-05
+T0367,2025-03-09,P0332,1.0,Hana,Jakarta,E-Wallet,35733.0,35733.0,Shark,Tetra,160.0,AquaWorld,3.9,2025-03
+T0368,2025-02-03,P0093,3.0,Fatma,Medan,E-Wallet,43455.0,14485.0,Discus,Fighter,32.0,ExoticFishID,4.9,2025-02
+T0369,2025-03-31,P0176,2.0,Budi,Bandung,Cash,69306.0,34653.0,Neon Tetra,Fighter,121.0,NishikigoiFarm,4.4,2025-03
+T0370,2025-01-18,P0145,3.0,Hana,Bogor,Credit,52788.0,17596.0,Neon Tetra,Tetra,40.0,FishZone,3.4,2025-01
+T0371,2025-03-04,P0007,10.0,Fatma,Surabaya,E-Wallet,632790.0,63279.0,Betta Splendens,Fighter,129.0,Unknown,4.4,2025-03
+T0372,2025-04-05,P0269,9.0,Fatma,Bogor,Transfer,660078.0,73342.0,Neon Tetra,Oddball,122.0,FishHaven,3.9,2025-04
+T0373,2025-03-14,P0376,9.0,Hana,Depok,E-Wallet,262548.0,29172.0,Knifefish,Cichlid,144.0,AquaWorld,3.6,2025-03
+T0374,2025-02-10,P0322,10.0,Andi,Bekasi,E-Wallet,651870.0,65187.0,Shark,Barb,36.0,AquaWorld,3.2,2025-02
+T0375,2025-04-23,P0004,2.0,Budi,Depok,Cash,85830.0,42915.0,Discus,Koi,74.0,FishZone,4.1,2025-04
+T0376,2025-05-20,P0138,3.0,Iwan,Bogor,E-Wallet,160380.0,53460.0,Discus,Discus,122.0,FishHaven,4.6,2025-05
+T0377,2025-03-19,P0231,4.0,Hana,Bandung,E-Wallet,165032.0,41258.0,Koi,Discus,161.0,ExoticFishID,3.9,2025-03
+T0378,2025-06-06,P0088,9.0,Gilang,Bogor,Transfer,461718.0,51302.0,Neon Tetra,Discus,94.0,FishHaven,3.8,2025-06
+T0379,2025-06-17,P0017,3.0,Gilang,Bogor,E-Wallet,152646.0,50882.0,Guppy,Discus,20.0,FishHaven,4.6,2025-06
+T0380,2025-05-16,P0052,7.0,Eka,Jakarta,Transfer,341355.0,48765.0,Neon Tetra,Fighter,49.0,FishZone,4.7,2025-05
+T0381,2025-01-03,P0134,3.0,Budi,Surabaya,E-Wallet,69237.0,23079.0,Oscar,Livebearer,48.0,ExoticFishID,4.0,2025-01
+T0382,2025-06-20,P0211,7.0,Fatma,Bandung,E-Wallet,54971.0,7853.0,Betta Splendens,Barb,188.0,FishZone,3.4,2025-06
+T0383,2025-05-22,P0325,7.0,Joko,Bogor,Credit,431242.0,61606.0,Guppy,Koi,28.0,FishZone,4.3,2025-05
+T0384,2025-03-18,P0480,9.0,Citra,Medan,E-Wallet,719271.0,79919.0,Barb,Discus,46.0,FishHaven,3.4,2025-03
+T0385,2025-06-19,P0458,2.0,Dedi,Surabaya,Transfer,69150.0,34575.0,Betta Splendens,Shark,95.5,FishHaven,4.2,2025-06
+T0386,2025-01-27,P0393,6.0,Joko,Depok,Transfer,161244.0,26874.0,Neon Tetra,Tetra,68.0,FishZone,3.994650205761317,2025-01
+T0387,2025-02-04,P0219,9.0,Budi,Bandung,Cash,243522.0,27058.0,Guppy,Discus,187.0,NishikigoiFarm,3.9,2025-02
+T0388,2025-03-09,P0205,2.0,Budi,Depok,Cash,55524.0,27762.0,Betta Splendens,Livebearer,134.0,ExoticFishID,4.1,2025-03
+T0389,2025-01-30,P0211,2.0,Hana,Bogor,Credit,15706.0,7853.0,Betta Splendens,Barb,188.0,FishZone,3.4,2025-01
+T0390,2025-01-28,P0277,5.0,Hana,Depok,Transfer,363840.0,72768.0,Neon Tetra,Koi,183.0,FishHaven,4.5,2025-01
+T0391,2025-05-22,P0024,10.0,Joko,Depok,Transfer,505230.0,50523.0,Oscar,Discus,184.0,FishHaven,3.4,2025-05
+T0392,2025-02-09,P0486,10.0,Fatma,Jakarta,Transfer,244270.0,24427.0,Betta Splendens,Koi,50.0,FishZone,3.994650205761317,2025-02
+T0393,2025-03-11,P0004,10.0,Eka,Depok,Credit,429150.0,42915.0,Discus,Koi,74.0,FishZone,4.1,2025-03
+T0394,2025-03-14,P0152,8.0,Hana,Medan,Transfer,263800.0,32975.0,Shark,Livebearer,83.0,NishikigoiFarm,4.5,2025-03
+T0395,2025-06-04,P0443,9.0,Dedi,Medan,Cash,355581.0,39509.0,Neon Tetra,Oddball,10.0,FishHaven,4.3,2025-06
+T0396,2025-02-23,P0483,2.0,Dedi,Surabaya,Credit,81134.0,40567.0,Discus,Fighter,95.5,FishHaven,4.4,2025-02
+T0397,2025-03-29,P0259,5.0,Eka,Bogor,Cash,288780.0,57756.0,Barb,Barb,40.0,NishikigoiFarm,4.7,2025-03
+T0398,2025-02-22,P0324,7.0,Andi,Bekasi,Cash,252273.0,36039.0,Angelfish,Cichlid,25.0,FishZone,4.8,2025-02
+T0399,2025-06-25,P0357,6.0,Andi,Depok,Credit,359874.0,59979.0,Angelfish,Oddball,123.0,ExoticFishID,3.3,2025-06
+T0400,2025-06-12,P0168,6.0,Budi,Depok,E-Wallet,328158.0,54693.0,Koi,Discus,105.0,NishikigoiFarm,3.994650205761317,2025-06
+T0401,2025-03-09,P0176,7.0,Hana,Bandung,E-Wallet,242571.0,34653.0,Neon Tetra,Fighter,121.0,NishikigoiFarm,4.4,2025-03
+T0402,2025-05-10,P0310,3.0,Gilang,Jakarta,Cash,235596.0,78532.0,Neon Tetra,Cichlid,119.0,FishHaven,3.4,2025-05
+T0403,2025-05-06,P0291,3.0,Joko,Bekasi,E-Wallet,166125.0,55375.0,Discus,Cichlid,75.0,ExoticFishID,4.7,2025-05
+T0404,2025-03-06,P0479,10.0,Iwan,Surabaya,Transfer,239530.0,23953.0,Discus,Oddball,79.0,ExoticFishID,3.7,2025-03
+T0405,2025-01-14,P0056,9.0,Eka,Bekasi,Credit,69813.0,7757.0,Koi,Koi,191.0,AquaWorld,4.0,2025-01
+T0406,2025-01-24,P0108,8.0,Budi,Depok,Cash,633744.0,79218.0,Knifefish,Oddball,85.0,FishZone,3.7,2025-01
+T0407,2025-06-12,P0473,5.0,Gilang,Bandung,Transfer,242695.0,48539.0,Angelfish,Cichlid,107.0,FishZone,3.7,2025-06
+T0408,2025-04-19,P0296,6.0,Hana,Bogor,E-Wallet,159060.0,26510.0,Neon Tetra,Shark,19.0,NishikigoiFarm,3.5,2025-04
+T0409,2025-03-12,P0461,10.0,Gilang,Jakarta,Transfer,739810.0,73981.0,Shark,Barb,152.0,FishZone,4.4,2025-03
+T0410,2025-01-12,P0324,1.0,Gilang,Bogor,E-Wallet,36039.0,36039.0,Angelfish,Cichlid,25.0,FishZone,4.8,2025-01
+T0411,2025-01-01,P0302,10.0,Eka,Surabaya,Cash,183170.0,18317.0,Knifefish,Shark,117.0,NishikigoiFarm,3.6,2025-01
+T0412,2025-03-27,P0334,1.0,Budi,Bekasi,Transfer,36933.0,36933.0,Shark,Cichlid,11.0,NishikigoiFarm,4.2,2025-03
+T0413,2025-02-03,P0141,4.0,Fatma,Surabaya,Credit,183520.0,45880.0,Angelfish,Tetra,5.0,AquaWorld,3.3,2025-02
+T0414,2025-06-13,P0155,2.0,Dedi,Depok,Cash,44126.0,22063.0,Barb,Tetra,126.0,FishHaven,3.9,2025-06
+T0415,2025-03-09,P0262,7.0,Joko,Surabaya,Transfer,516985.0,73855.0,Guppy,Tetra,124.0,FishHaven,4.3,2025-03
+T0416,2025-02-11,P0273,2.0,Budi,Bogor,Transfer,95626.0,47813.0,Knifefish,Tetra,162.0,FishHaven,5.0,2025-02
+T0417,2025-04-24,P0420,10.0,Iwan,Bandung,E-Wallet,335610.0,33561.0,Shark,Discus,95.5,AquaWorld,3.7,2025-04
+T0418,2025-05-22,P0232,2.0,Gilang,Surabaya,Cash,155332.0,77666.0,Neon Tetra,Livebearer,163.0,FishHaven,4.5,2025-05
+T0419,2025-04-20,P0241,5.0,Fatma,Medan,Cash,130255.0,26051.0,Betta Splendens,Koi,17.0,AquaWorld,4.4,2025-04
+T0420,2025-05-24,P0355,4.0,Eka,Bandung,Cash,260844.0,65211.0,Angelfish,Cichlid,79.0,NishikigoiFarm,3.9,2025-05
+T0422,2025-01-29,P0489,4.0,Joko,Jakarta,E-Wallet,188256.0,47064.0,Koi,Koi,20.0,FishHaven,3.8,2025-01
+T0423,2025-01-20,P0258,6.0,Joko,Jakarta,Credit,28500.0,4750.0,Betta Splendens,Discus,165.0,NishikigoiFarm,4.9,2025-01
+T0424,2025-02-08,P0249,5.0,Dedi,Depok,Cash,300670.0,60134.0,Koi,Fighter,86.0,NishikigoiFarm,3.6,2025-02
+T0427,2025-04-05,P0066,2.0,Citra,Bekasi,Credit,55834.0,27917.0,Angelfish,Cichlid,152.0,ExoticFishID,3.3,2025-04
+T0429,2025-05-22,P0348,9.0,Gilang,Jakarta,Cash,365157.0,40573.0,Shark,Koi,37.0,AquaWorld,4.2,2025-05
+T0430,2025-02-07,P0171,3.0,Gilang,Jakarta,Credit,232596.0,77532.0,Betta Splendens,Fighter,86.0,ExoticFishID,4.6,2025-02
+T0431,2025-04-21,P0474,4.0,Gilang,Jakarta,Cash,41964.0,10491.0,Discus,Cichlid,122.0,FishHaven,3.1,2025-04
+T0432,2025-02-02,P0022,8.0,Budi,Bogor,Cash,313952.0,39244.0,Neon Tetra,Discus,5.0,AquaWorld,3.9,2025-02
+T0433,2025-01-11,P0367,9.0,Joko,Jakarta,Transfer,485532.0,53948.0,Knifefish,Cichlid,85.0,AquaWorld,3.0,2025-01
+T0433,2025-01-11,P0367,9.0,Joko,Jakarta,Transfer,485532.0,53948.0,Knifefish,Cichlid,95.5,AquaWorld,3.0,2025-01
+T0433,2025-01-11,P0367,9.0,Joko,Jakarta,Transfer,485532.0,53948.0,Knifefish,Cichlid,85.0,AquaWorld,3.0,2025-01
+T0433,2025-01-11,P0367,9.0,Joko,Jakarta,Transfer,485532.0,53948.0,Knifefish,Cichlid,95.5,AquaWorld,3.0,2025-01
+T0434,2025-03-20,P0107,3.0,Citra,Surabaya,Cash,101034.0,33678.0,Betta Splendens,Cichlid,53.0,FishHaven,4.2,2025-03
+T0435,2025-04-04,P0439,5.0,Joko,Bekasi,Transfer,286510.0,57302.0,Koi,Tetra,48.0,ExoticFishID,3.2,2025-04
+T0436,2025-01-11,P0323,8.0,Iwan,Bandung,Credit,127872.0,15984.0,Guppy,Discus,19.0,FishZone,3.2,2025-01
+T0437,2025-04-02,P0227,3.0,Citra,Bandung,E-Wallet,114333.0,38111.0,Betta Splendens,Oddball,116.0,ExoticFishID,3.2,2025-04
+T0438,2025-02-23,P0444,7.0,Budi,Medan,Transfer,318738.0,45534.0,Koi,Oddball,98.0,FishZone,4.7,2025-02
+T0439,2025-06-24,P0442,8.0,Iwan,Surabaya,E-Wallet,207120.0,25890.0,Guppy,Discus,101.0,Unknown,4.5,2025-06
+T0440,2025-03-05,P0396,10.0,Joko,Jakarta,Credit,206020.0,20602.0,Neon Tetra,Tetra,189.0,ExoticFishID,3.6,2025-03
+T0441,2025-06-20,P0216,3.0,Iwan,Jakarta,Cash,104961.0,34987.0,Neon Tetra,Cichlid,107.0,NishikigoiFarm,3.6,2025-06
+T0442,2025-01-27,P0069,2.0,Dedi,Depok,Credit,131646.0,65823.0,Shark,Shark,125.0,FishHaven,3.994650205761317,2025-01
+T0443,2025-04-01,P0084,10.0,Iwan,Depok,E-Wallet,214490.0,21449.0,Neon Tetra,Cichlid,17.0,ExoticFishID,3.1,2025-04
+T0444,2025-05-24,P0103,7.0,Citra,Medan,Credit,389221.0,55603.0,Shark,Cichlid,120.0,NishikigoiFarm,3.4,2025-05
+T0445,2025-04-15,P0039,9.0,Gilang,Jakarta,Cash,600579.0,66731.0,Guppy,Cichlid,17.0,FishZone,3.4,2025-04
+T0446,2025-06-08,P0013,1.0,Gilang,Medan,Credit,58176.0,58176.0,Knifefish,Shark,80.0,FishZone,3.1,2025-06
+T0447,2025-02-09,P0297,3.0,Hana,Surabaya,Cash,131994.0,43998.0,Discus,Discus,7.0,FishHaven,3.0,2025-02
+T0448,2025-03-02,P0313,5.0,Joko,Bandung,Transfer,84595.0,16919.0,Barb,Livebearer,155.0,AquaWorld,4.6,2025-03
+T0449,2025-02-11,P0181,3.0,Dedi,Jakarta,E-Wallet,155268.0,51756.0,Shark,Livebearer,135.0,ExoticFishID,3.6,2025-02
+T0450,2025-02-15,P0493,1.0,Citra,Bekasi,Cash,32241.0,32241.0,Knifefish,Cichlid,77.0,NishikigoiFarm,3.3,2025-02
+T0451,2025-04-16,P0268,7.0,Citra,Bogor,Cash,228977.0,32711.0,Koi,Cichlid,144.0,FishHaven,3.9,2025-04
+T0452,2025-01-07,P0013,7.0,Eka,Surabaya,Credit,407232.0,58176.0,Knifefish,Shark,80.0,FishZone,3.1,2025-01
+T0453,2025-02-15,P0120,10.0,Andi,Jakarta,Transfer,348210.0,34821.0,Barb,Barb,115.0,NishikigoiFarm,3.994650205761317,2025-02
+T0454,2025-03-27,P0458,8.0,Joko,Bogor,Cash,276600.0,34575.0,Betta Splendens,Shark,95.5,FishHaven,4.2,2025-03
+T0455,2025-04-16,P0353,5.0,Citra,Bekasi,Transfer,256400.0,51280.0,Betta Splendens,Koi,44.0,NishikigoiFarm,3.5,2025-04
+T0456,2025-06-21,P0057,10.0,Fatma,Depok,Transfer,220970.0,22097.0,Guppy,Tetra,171.0,ExoticFishID,3.3,2025-06
+T0457,2025-03-05,P0040,5.0,Citra,Medan,Credit,263440.0,52688.0,Koi,Tetra,14.0,ExoticFishID,3.7,2025-03
+T0458,2025-03-10,P0374,5.0,Eka,Depok,Cash,106485.0,21297.0,Betta Splendens,Tetra,157.0,NishikigoiFarm,4.1,2025-03
+T0459,2025-02-10,P0336,1.0,Iwan,Bandung,Credit,35413.0,35413.0,Betta Splendens,Cichlid,180.0,ExoticFishID,3.9,2025-02
+T0460,2025-01-28,P0128,10.0,Budi,Depok,E-Wallet,91500.0,9150.0,Discus,Fighter,173.0,FishZone,4.3,2025-01
+T0461,2025-04-08,P0173,5.0,Budi,Jakarta,E-Wallet,321340.0,64268.0,Discus,Discus,140.0,FishHaven,4.8,2025-04
+T0462,2025-01-10,P0035,6.0,Fatma,Bekasi,Cash,253344.0,42224.0,Shark,Shark,63.0,AquaWorld,4.7,2025-01
+T0463,2025-05-01,P0259,1.0,Fatma,Depok,Transfer,57756.0,57756.0,Barb,Barb,40.0,NishikigoiFarm,4.7,2025-05
+T0464,2025-02-26,P0376,7.0,Hana,Jakarta,Cash,204204.0,29172.0,Knifefish,Cichlid,144.0,AquaWorld,3.6,2025-02
+T0465,2025-02-21,P0005,1.0,Budi,Bandung,Cash,40219.0,40219.0,Shark,Barb,115.0,FishZone,4.1,2025-02
+T0466,2025-04-28,P0218,2.0,Iwan,Bogor,E-Wallet,30224.0,15112.0,Shark,Tetra,19.0,NishikigoiFarm,4.6,2025-04
+T0467,2025-03-31,P0011,2.0,Budi,Bekasi,E-Wallet,61264.0,30632.0,Koi,Fighter,26.0,ExoticFishID,4.0,2025-03
+T0468,2025-03-20,P0382,5.0,Andi,Depok,Transfer,159155.0,31831.0,Knifefish,Cichlid,71.0,NishikigoiFarm,3.7,2025-03
+T0469,2025-02-28,P0327,10.0,Joko,Medan,Transfer,530720.0,53072.0,Neon Tetra,Livebearer,118.0,FishHaven,4.8,2025-02
+T0470,2025-02-27,P0117,7.0,Budi,Medan,Cash,475503.0,67929.0,Angelfish,Cichlid,157.0,AquaWorld,4.7,2025-02
+T0471,2025-01-07,P0184,1.0,Gilang,Bekasi,Credit,64396.0,64396.0,Neon Tetra,Cichlid,182.0,NishikigoiFarm,3.4,2025-01
+T0472,2025-06-18,P0394,10.0,Hana,Medan,Cash,466420.0,46642.0,Angelfish,Discus,104.0,AquaWorld,4.4,2025-06
+T0473,2025-02-19,P0362,1.0,Eka,Depok,Transfer,43042.0,43042.0,Angelfish,Oddball,7.0,FishHaven,3.4,2025-02
+T0474,2025-04-13,P0116,1.0,Fatma,Depok,Credit,27160.0,27160.0,Discus,Oddball,32.0,FishZone,3.2,2025-04
+T0475,2025-03-26,P0162,6.0,Andi,Bekasi,E-Wallet,33438.0,5573.0,Knifefish,Cichlid,153.0,AquaWorld,3.8,2025-03
+T0476,2025-03-13,P0067,2.0,Fatma,Depok,Transfer,49132.0,24566.0,Koi,Cichlid,198.0,FishZone,4.5,2025-03
+T0477,2025-01-18,P0200,1.0,Hana,Bogor,Transfer,14555.0,14555.0,Oscar,Fighter,188.0,AquaWorld,3.3,2025-01
+T0479,2025-03-31,P0075,2.0,Andi,Bandung,Transfer,54884.0,27442.0,Knifefish,Barb,62.0,FishHaven,4.8,2025-03
+T0480,2025-06-14,P0237,6.0,Dedi,Bogor,Transfer,186870.0,31145.0,Shark,Cichlid,185.0,FishZone,3.9,2025-06
+T0481,2025-05-11,P0327,10.0,Andi,Bogor,Transfer,530720.0,53072.0,Neon Tetra,Livebearer,118.0,FishHaven,4.8,2025-05
+T0482,2025-04-13,P0493,8.0,Hana,Medan,Transfer,257928.0,32241.0,Knifefish,Cichlid,77.0,NishikigoiFarm,3.3,2025-04
+T0483,2025-06-23,P0066,2.0,Eka,Jakarta,Transfer,55834.0,27917.0,Angelfish,Cichlid,152.0,ExoticFishID,3.3,2025-06
+T0484,2025-05-18,P0070,9.0,Andi,Bekasi,Transfer,214254.0,23806.0,Barb,Fighter,83.0,FishHaven,3.1,2025-05
+T0485,2025-03-26,P0297,8.0,Hana,Medan,Transfer,351984.0,43998.0,Discus,Discus,7.0,FishHaven,3.0,2025-03
+T0486,2025-01-08,P0447,10.0,Iwan,Jakarta,Transfer,609320.0,60932.0,Betta Splendens,Fighter,73.0,NishikigoiFarm,4.3,2025-01
+T0487,2025-01-30,P0416,1.0,Joko,Depok,E-Wallet,5396.0,5396.0,Discus,Discus,18.0,FishHaven,3.7,2025-01
+T0488,2025-03-08,P0020,7.0,Budi,Bekasi,Transfer,557123.0,79589.0,Guppy,Barb,186.0,NishikigoiFarm,3.3,2025-03
+T0489,2025-02-15,P0441,10.0,Iwan,Bekasi,E-Wallet,57190.0,5719.0,Shark,Livebearer,171.0,NishikigoiFarm,3.7,2025-02
+T0490,2025-05-29,P0226,6.0,Hana,Medan,E-Wallet,108288.0,18048.0,Angelfish,Koi,163.0,FishHaven,4.7,2025-05
+T0491,2025-03-09,P0434,6.0,Gilang,Depok,Cash,311244.0,51874.0,Betta Splendens,Tetra,148.0,ExoticFishID,3.8,2025-03
+T0493,2025-01-28,P0409,6.0,Budi,Surabaya,E-Wallet,442986.0,73831.0,Betta Splendens,Fighter,158.0,FishZone,3.9,2025-01
+T0494,2025-06-02,P0396,10.0,Gilang,Jakarta,E-Wallet,206020.0,20602.0,Neon Tetra,Tetra,189.0,ExoticFishID,3.6,2025-06
+T0496,2025-03-30,P0039,3.0,Fatma,Jakarta,Cash,200193.0,66731.0,Guppy,Cichlid,17.0,FishZone,3.4,2025-03
+T0497,2025-03-22,P0145,6.0,Dedi,Bandung,Credit,105576.0,17596.0,Neon Tetra,Tetra,40.0,FishZone,3.4,2025-03
+T0498,2025-04-22,P0045,3.0,Budi,Bogor,Cash,182283.0,60761.0,Angelfish,Barb,144.0,NishikigoiFarm,3.5,2025-04
+T0499,2025-06-05,P0395,7.0,Iwan,Bekasi,E-Wallet,477120.0,68160.0,Angelfish,Barb,89.0,AquaWorld,4.0,2025-06
+T0500,2025-05-11,P0326,7.0,Citra,Medan,E-Wallet,95312.0,13616.0,Angelfish,Cichlid,0.0,NishikigoiFarm,4.7,2025-05
+T0445,2025-04-15,P0039,9.0,Gilang,Jakarta,Cash,600579.0,66731.0,Guppy,Cichlid,17.0,FishZone,3.4,2025-04
+T0186,2025-05-26,P0325,6.0,Budi,Surabaya,E-Wallet,369636.0,61606.0,Guppy,Koi,28.0,FishZone,4.3,2025-05
